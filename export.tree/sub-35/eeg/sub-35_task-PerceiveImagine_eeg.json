@@ -1,0 +1,32 @@
+{
+  "PowerLineFrequency": 50,
+  "SoftwareFilters": {
+    "FilterDescription": {
+      "Description": "0.1 Hz-100Hz"
+    }
+  },
+  "HardwareFilters": {
+    "FilterDescription": {
+      "Description": "0-20000Hz"
+    }
+  },
+  "SoftwareVersions": "n/a",
+  "DeviceSerialNumber": "n/a",
+  "ManufacturersModelName": "SynAmps 2",
+  "Manufacturer": "Neuroscan",
+  "EEGPlacementScheme": "10-20",
+  "EEGGround": "GND",
+  "EEGReference": "REF",
+  "CapManufacturersModelName": "64 channel",
+  "CapManufacturer": "Neuroscan",
+  "InstitutionAddress": "Beijing,China",
+  "InstitutionalDepartmentName": "MindscapeCenter for Computational Biology",
+  "InstitutionName": "Beijing Institute of Basic Medical Sciences",
+  "CogPOID": "Visual Imagery",
+  "CogAtlasID": "Visual Imagery",
+  "TaskName": "PerceiveImagine",
+  "EEGChannelCount": 64,
+  "RecordingType": "continuous",
+  "RecordingDuration": 6939.8,
+  "SamplingFrequency": 1000
+}
