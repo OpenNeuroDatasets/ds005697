@@ -8,9 +8,7 @@
         "Weilong Li",
         "Hua Fan"
     ],
-    "ReferencesAndLinks": [
-        "Roy Y, Banville H, Albuquerque I, et al. Deep learning-based electroencephalography analysis: a systematic review[J]. Journal of neural engineering, 2019, 16(5): 051001."
-    ],
+    "ReferencesAndLinks": [],
     "GeneratedBy": [
         {
             "Name": "bids-matlab-tools",
